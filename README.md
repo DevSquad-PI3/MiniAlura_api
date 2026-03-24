@@ -1,2 +1,2 @@
 # MiniAlura_api
-API do proejto
+API do projeto
